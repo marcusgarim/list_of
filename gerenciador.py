@@ -19,6 +19,7 @@ def atualizar_nome_tarefa (tarefas, indic):
     return
 
 tarefas = []
+#teste
 
 while True:
     print("\nMenu do Gerenciador da Lista de tarefas")
