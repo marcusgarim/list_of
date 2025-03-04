@@ -20,6 +20,3 @@ Thumbs.db
 # Configurações de ambiente virtual (caso use)
 venv/
 .env
-
-# Scrip de Auto Commit
-script.py
